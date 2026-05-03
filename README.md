@@ -23,3 +23,5 @@ apt update && apt upgrade
 
 # Install browser dependencies
 apt install chromium chromium-driver python3 python3-pip -y
+
+***credit: T_Y😎***
